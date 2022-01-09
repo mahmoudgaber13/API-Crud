@@ -1,0 +1,5 @@
+before you run the project
+kindly run these commands in package manager console:- 
+1:enable-migrations
+2:add-migration 'any name'
+3:Update-database
